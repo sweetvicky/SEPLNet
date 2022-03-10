@@ -1,5 +1,4 @@
 # SEPL-Net
-A semantics-Enhanced Pseudo Labeling for Semi-Supervised Learning
 Code for the paper: "[SEPL-Net: a Semantics-Enhanced Pseudo Labeling Network for Semi-Supervised Image Analysis](https://XX)"
 
 # Statement
